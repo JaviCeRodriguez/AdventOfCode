@@ -25,4 +25,4 @@ for movement in movements:
     else:
         aim += movement["units"]
 
-print(f'Product between depth and horizontal is {horizontal * depth}') # 10159800
+print(f'Product between depth and horizontal is {horizontal * depth}') # 1857958050
